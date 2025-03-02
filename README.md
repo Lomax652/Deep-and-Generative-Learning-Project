@@ -15,8 +15,8 @@ This project explores the use of Deep Convolutional Generative Adversarial Netwo
 ## 📊 Results & Visualization
 - **Generated Images**:Example outputs after training for multiple epochs.
 Improvements in image quality over time.
--**Loss Curves**:Generator and Discriminator loss progression.
-##🔍 Challenges & Future Improvements
+- **Loss Curves**:Generator and Discriminator loss progression.
+## 🔍 Challenges & Future Improvements
 - **Challenges Faced**:Mode collapse and training instability.
 - **Future Enhancements**:Exploring StyleGAN for better image quality.
 Implementing self-attention mechanisms for fine-grained details.
